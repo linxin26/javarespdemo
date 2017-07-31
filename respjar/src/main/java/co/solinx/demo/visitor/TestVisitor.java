@@ -7,9 +7,9 @@ import org.objectweb.asm.Opcodes;
 import java.util.Arrays;
 
 /**
- * @author linxin
+ * @author linx
  * @version v1.0
- *          Copyright (c) 2015 by e_trans
+ *          Copyright (c) 2015 by linx
  * @date 2017/6/23.
  */
 public class TestVisitor extends ClassVisitor {

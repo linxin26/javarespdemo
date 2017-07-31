@@ -1,9 +1,9 @@
 package co.solinx.demo;
 
 /**
- * @author linxin
+ * @author linx
  * @version v1.0
- *          Copyright (c) 2015 by e_trans
+ *          Copyright (c) 2015 by solinx
  * @date 2017/6/23.
  */
 public class RASPTest {
